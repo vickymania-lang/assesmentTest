@@ -1,0 +1,20 @@
+question 4
+
+I create a component called Components and i created a main page 
+called main.jsx file in which contain all the code.
+
+I create a folder called hooks for in which i created useSearchBooks.jsx file for all 
+my search button functionality.
+
+I create a file in the Components called PDFGenerator.jsx i use it to download book selected and it will download 
+the information of the book in pdf format.
+
+All my route are embbed in APP.Js file and i put all my styling in App.css.
+
+Creating component make me avoid D.R.Y dont repeat yourself, which makes me have lesser code for the assesment
+
+
+
+question 5
+
+The assesment given me was build with Javascript library React.Js.
